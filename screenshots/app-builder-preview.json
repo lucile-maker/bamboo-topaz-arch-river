@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "George — Your home, looked after.",
+      "hasCanvas": false,
+      "bodyTextLen": 4967,
+      "bodyTextHash": "b87bd2a244a7f3b6c5d964c268bdb2eb735ea2282025adec604a74e0fe7726ba",
+      "bodyTextPrefix": "George Membership How it works Neighbourhoods Private About Requ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "George — Your home, looked after.",
+      "hasCanvas": false,
+      "bodyTextLen": 4895,
+      "bodyTextHash": "92bc061af484f08479bd4110f2b537548faa9a705034d5913b4640165cf34f04",
+      "bodyTextPrefix": "George TORONTO Your home, looked after. George is a property man",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
